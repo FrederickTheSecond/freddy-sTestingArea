@@ -1,0 +1,1 @@
+This will serve as Fred's testing area for Git stuff
